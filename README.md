@@ -10,6 +10,7 @@
   <img src="https://github.com/stevenYang914/Fitness_Tracker/blob/main/images/IMG_7368.PNG?raw=true" width="190" height="370"/>
   <img src="https://github.com/stevenYang914/Fitness_Tracker/blob/main/images/IMG_7369.PNG?raw=true" width="190" height="370"/>
   <img src="https://github.com/stevenYang914/Fitness_Tracker/blob/main/images/IMG_7370.PNG?raw=true" width="190" height="370"/>
+  <img src="https://github.com/stevenYang914/Fitness_Tracker/blob/main/images/IMG_7372.PNG?raw=true" width="190" height="370"/>
 </p>
 
 
