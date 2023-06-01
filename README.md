@@ -1,4 +1,4 @@
-# Fitness_Tracker
+# Fitness Tracker
 
 <img src="https://github.com/stevenYang914/Fitness_Tracker/assets/79009848/3d9b9ca0-d246-45d6-89a9-c07dcdcff8dd" width="190" height="370"/>
 
@@ -8,10 +8,10 @@
 
 <img src="https://github.com/stevenYang914/Fitness_Tracker/assets/79009848/9aadf90d-2286-46fe-ad4e-2e915f0998c3" width="190" height="370"/>
 
-## Demonstration Video
-1. General Demo: https://drive.google.com/file/d/1FGq-mHmBvondh9n7TLoEhYSGoKaIDm0-/view?usp=sharing
-2. Accessibility Components Demo (Sign Up): https://drive.google.com/file/d/1CFuGs-uOXBfjPTld-4DhtXXhPu7_5yMK/view?usp=sharing
-3. Accessibility Components Demo (Set Goal): https://drive.google.com/file/d/1EsKucb6yz6TTW8tXfjh9zmR-og7HdfBQ/view?usp=sharing
+## Demonstration Video (Google Drive)
+1. [General Demo](https://drive.google.com/file/d/1FGq-mHmBvondh9n7TLoEhYSGoKaIDm0-/view?usp=sharing)
+2. [Accessibility Components Demo (Sign Up)](https://drive.google.com/file/d/1CFuGs-uOXBfjPTld-4DhtXXhPu7_5yMK/view?usp=sharing)
+3. [Accessibility Components Demo (Set Goal)](https://drive.google.com/file/d/1EsKucb6yz6TTW8tXfjh9zmR-og7HdfBQ/view?usp=sharing)
 
 
 ## To Start the Application
